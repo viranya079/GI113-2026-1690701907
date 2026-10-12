@@ -62,14 +62,7 @@ namespace Lab06
             //Console.WriteLine("You Lives");
             //}
 
-           using System;
 
-namespace LabGame
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
             // กำหนดค่าเริ่มต้นของตัวละคร
             int ditalinerHp = 500;   // พลังชีวิต/สตามินาของ Ditaliner
             int ditalinerSanity = 100; // ค่าสติของ Ditaliner
