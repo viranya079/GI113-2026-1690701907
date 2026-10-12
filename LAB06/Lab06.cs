@@ -1,8 +1,8 @@
  /*
- * Student ID : 1690702756
- * Name       : YOUR_NAME_HERE
+ * Student ID : 1690701907
+ * Name       : Viranya Pheathong
  * Section    : 129C
- * No.        : N/A
+ * No.        : 3
  * Course     : GI113 Computer Programming (GI)
  */
 using System;
