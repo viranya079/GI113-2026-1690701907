@@ -20,7 +20,7 @@ namespace Assignment02
             const double MaxBatch = 500.0;
 
             Console.WriteLine("-----------------------------------");
-            Console.WriteLine("--      Welcome to the Forge     --");
+            Console.WriteLine("      Welcome to the Forge         ");
             Console.WriteLine("-----------------------------------");
             Console.WriteLine("=> Iron Smelting 0.25 / Salvage 0.3");
             Console.WriteLine("=> Key 'S' for Smelt (Ore -> Ingot)");
